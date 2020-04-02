@@ -1,2 +1,3 @@
 # Bash-Scripts
-Personal bash scripts for making life on Linux easier. 
+
+A collection of bash scripts / tools I've found useful or created. 
