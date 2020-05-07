@@ -1,3 +1,7 @@
-# Bash-Scripts
+# Bash Scripts & Tools
 
-A collection of bash scripts / tools I've found useful or created. 
+This is a personal collection of bash scripts and tools that I've found useful overtime.
+
+## Scripts
+- **New Script** - Script Template Generator
+- **.bash_aliases** - A collection of command aliases
